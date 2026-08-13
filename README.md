@@ -8,25 +8,53 @@ Réalisé au sein de **ISPM — Madagascar** ([www.ispm-edu.com](https://www.isp
 
 ### **1. Informations sur le Groupe**
 
-> ⚠️ **À COMPLÉTER PAR L'ÉQUIPE** — section obligatoire, non déductible du code.
-
 #### Membre 1
 
-- nom :
-- prénom(s) :
-- classe :
-- numéro :
-- rôle : *(développeur, analyste, responsable de la modélisation, présentateur, etc.)*
+- nom : RAVELONARIVO
+- prénom(s) : Fanantenana Mickaël
+- classe : M1 — Machine Learning & Data Science
+- numéro : 28
+- rôle : Analyste données — EDA et préparation (notebook 01)
 
 #### Membre 2
 
-- nom :
-- prénom(s) :
-- classe :
-- numéro :
-- rôle :
+- nom : IALISOA
+- prénom(s) : Iris Fifaliana
+- classe : M1 — Machine Learning & Data Science
+- numéro : 33
+- rôle : Développeuse ML — baseline et protocole de validation temporelle (notebook 02)
 
-*(dupliquez ce bloc pour chaque membre supplémentaire ayant effectivement participé.)*
+#### Membre 3
+
+- nom : RAZAFIMBELO
+- prénom(s) : Toky Faniry
+- classe : M1 — Machine Learning & Data Science
+- numéro : 34
+- rôle : Responsable de la modélisation — comparaison des modèles et choix du seuil (notebook 03), intégration technique et dépôt GitHub
+
+#### Membre 4
+
+- nom : RAMEFIARISON
+- prénom(s) : Fabio Fandresena
+- classe : M1 — Machine Learning & Data Science
+- numéro : 35
+- rôle : Développeur — feature engineering et validation du gain (notebook 04)
+
+#### Membre 5
+
+- nom : RAKOTOARIMANANA
+- prénom(s) : Tojo Ny Aina
+- classe : M1 — Machine Learning & Data Science
+- numéro : 38
+- rôle : Analyste — interprétation et analyse d'erreurs (notebook 05)
+
+#### Membre 6
+
+- nom : FANAMBIHARINDRAINY
+- prénom(s) : Schenyolla Anderssen
+- classe : M1 — Machine Learning & Data Science
+- numéro : 37
+- rôle : Responsable soumission finale (notebook 06) et présentatrice de la vidéo
 
 ---
 

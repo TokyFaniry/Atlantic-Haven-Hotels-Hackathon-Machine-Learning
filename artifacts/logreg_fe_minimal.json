@@ -1,0 +1,14 @@
+{
+  "modele": "LR \u2014 FE minimal",
+  "seuil": 0.5,
+  "f1": 0.4578313253012048,
+  "precision": 0.36289222373806274,
+  "recall": 0.62004662004662,
+  "roc_auc": 0.6562876349383608,
+  "features_ajoutees": [
+    "personnes_par_chambre",
+    "prix_relatif_destination",
+    "taux_annulation_passee"
+  ],
+  "gain_f1_vs_sans_fe": 0.004151671621551112
+}

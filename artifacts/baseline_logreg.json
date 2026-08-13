@@ -1,0 +1,8 @@
+{
+  "modele": "R\u00e9gression logistique \u2014 baseline",
+  "seuil": 0.5,
+  "f1": 0.4536796536796537,
+  "precision": 0.3608815426997245,
+  "recall": 0.6107226107226107,
+  "roc_auc": 0.653230060574211
+}

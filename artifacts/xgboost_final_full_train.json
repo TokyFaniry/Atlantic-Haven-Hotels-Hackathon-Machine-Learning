@@ -1,0 +1,12 @@
+{
+  "seuil": 0.42499999999999993,
+  "best_params": {
+    "subsample": 0.85,
+    "n_estimators": 150,
+    "max_depth": 4,
+    "learning_rate": 0.01,
+    "colsample_bytree": 0.85
+  },
+  "n_train": 8000,
+  "f1_validation": 0.48135593220338985
+}

@@ -119,7 +119,7 @@ engineering, XGBoost, analyse d'erreurs, priorisation opérationnelle.
 
 **🔗 Liens utiles :**
 
-- [**LIEN VERS LA VIDÉO DE PRÉSENTATION**](https://www.youtube.com/) — ⚠️ **à compléter**
+- [**LIEN VERS LA VIDÉO DE PRÉSENTATION**](https://drive.google.com/file/d/1TVusxh6tuOfyEPDVy-hyuPXEzakxjbFX/view?usp=drivesdk)
 - [Dépôt GitHub](https://github.com/TokyFaniry/Atlantic-Haven-Hotels-Hackathon-Machine-Learning)
 
 ---
